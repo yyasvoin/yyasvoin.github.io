@@ -1,3 +1,3 @@
 # Portfolio website
 
-Portfolio yyasvoin.netlify.app
+Portfolio https://yyasvoin.netlify.app
